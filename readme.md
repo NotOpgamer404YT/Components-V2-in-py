@@ -999,4 +999,4 @@ async def on_button(self, interaction: discord.Interaction):
 
 ---
 
-*Made with ❤️ for discord.py bot developers*
+*Made with ❤️ By NaAz (Not_Op_gamer404_Yt) for discord.py bot developers*
